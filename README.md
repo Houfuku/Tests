@@ -4,6 +4,6 @@
 
 Хотелось бы, чтобы оно было правилным. Трудился на 5, но я надеюсь, что будет выше 3(
 
-<img width="736" height="727" alt="image" src="https://github.com/user-attachments/assets/98ebcd54-0910-48c2-a7b8-ff0952926d1c" />
+<img width="436" height="427" alt="image" src="https://github.com/user-attachments/assets/98ebcd54-0910-48c2-a7b8-ff0952926d1c" />
 
 
